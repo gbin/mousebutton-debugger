@@ -1,5 +1,4 @@
-Mouse Button Debugger
-=====================
+## Mouse Button Debugger
 
 Have you never be in the situation where you don't trust your mouse ?
 
@@ -13,8 +12,8 @@ Happy debugging !
 It is open source under the GPL3 license.
 
 
-Installation
-============
+## Installation
+
 you need to install a dependency "evdev" with :
 
 ```
