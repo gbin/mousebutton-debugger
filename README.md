@@ -3,7 +3,7 @@
 Have you never be in the situation where you don't trust your mouse ?
 
 Sometimes you click something and it doesn't do anything and you start to doubt about your device or ...
-Was is an application bug ?
+Was it a bug from the application ?
 
 This is a simple tool help you discriminating this problem by registering all your mouse clicks at the kernel device level.
 
